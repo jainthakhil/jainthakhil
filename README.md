@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 B.Tech 3rd year CSE student.<br>🌐 MERN Stack.<br>📖 Currently upskilling React.<br>✨ Enriching my Developer skills.<br>🔍 Currently in search of internships.<br><br><br><br><br>
+👨‍💻 B.Tech Final year CSE student.<br>🌐 MERN Stack.<br>📖 Currently upskilling React.<br>✨ Enriching my Developer skills.<br>🔍 Currently in search of internships.<br><br><br><br><br>
 
 
 ## 🌐 Socials:
